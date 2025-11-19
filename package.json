@@ -1,0 +1,9 @@
+{
+  "name": "totle-topic-api-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix ./totle-topic-api run start",
+    "install": "npm --prefix ./totle-topic-api install"
+  }
+}

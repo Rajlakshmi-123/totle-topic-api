@@ -1,0 +1,14 @@
+{
+  "name": "totle-topic-api",
+  "version": "1.0.0",
+  "description": "Topic Retrieval API - Backend Developer Intern Round",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Raj Lakshmi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
